@@ -1,14 +1,14 @@
 ---
-_template: "post"
-title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'After the postoperative check at the clinic, Molly took him to the simple Chinese hollow points Shin had sold him. Still it was a handgun and nine rounds of ammunition, and as he made his way down Shiga from the banks of every computer in the tunnel’s ceiling.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
+title: Fart harder than you ever thort possible
+excerpt: 'After the post-op, he never healed'
+coverImage: /assets/blog/hello-world/cover.jpg
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Tim Neutkens
-  picture: '/assets/blog/authors/tim.jpeg'
+  name: Dinkus McGankus
+  picture: /assets/blog/authors/tim.jpeg
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: /assets/blog/hello-world/cover.jpg
+_template: post
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
